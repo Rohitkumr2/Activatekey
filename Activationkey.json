@@ -3,10 +3,10 @@
         "device_id": "1a5327b4c624ffdf",
         "key": "freekey",
         "expirydate": "14-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
-        "device_id": "1a5327b4c624ffdf",
+        "device_id": "",
         "key": "1day",
         "expirydate": "13-08-2025",
         "Allowoffline": false
