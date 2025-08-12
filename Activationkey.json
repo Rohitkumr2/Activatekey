@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "device123",
+        "key": "2day",
+        "expirydate": "14-08-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "1day",
+        "expirydate": "13-08-2025",
+        "Allowoffline": false
+    }
+]
