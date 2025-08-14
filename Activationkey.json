@@ -1,14 +1,14 @@
 [
     {
         "device_id": "af320ca59807263a",
-        "key": "thanaram",
-        "expirydate": "14-08-2025",
+        "key": "1day",
+        "expirydate": "15-08-2025",
         "Allowoffline": false
     },
     {
         "device_id": "1a5327b4c624ffdf",
-        "key": "free",
-        "expirydate": "13-08-2025",
+        "key": "1dayfree",
+        "expirydate": "15-08-2025",
         "Allowoffline": false
     }
 ]
